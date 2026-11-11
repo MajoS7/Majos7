@@ -1,26 +1,24 @@
-<h1 align="center">Hi 👋, I'm Maria Jose Ospina</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h1 align="center">Hi 👋, I'm María José Ospina</h1>
+<h3 align="center">Semi-Senior Full Stack Developer | Frontend Specialist (Angular & React) from Colombia 🇨🇴</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majos7&label=Profile%20views&color=0e75b6&style=flat" alt="majos7" /> </p>
 
-- 🔭 I’m currently working on **Heinsohn**
-
-- 🌱 I’m currently learning **new technologies and some Frontend Frameworks**
-
-- 🤝 I’m looking for help with **Angular and React concepts**
-
-- 💬 Ask me about **React and Angular**
-
+- 💼 **5 years of experience** building scalable enterprise web applications (formerly at Heinsohn Business Technologies).
+- 🚀 **Open to work:** Looking for **100% remote** Full Stack or Frontend opportunities.
+- 🌱 Continuously exploring **Cloud architectures, Microservices, and AI-assisted development**.
+- 💬 Ask me about **React, Angular, TypeScript, Java, .NET, and SQL**.
 - 📫 How to reach me **majos2764@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 
-## 💻 Tech Stack:
-
 ### 📨 Socials:
-![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)
+![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)(https://linkedin.com/in/majosh7/)
 ![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=)
 
+
+## 💻 Tech Stack:
 
 ### 🧮 Frontend tecnologies:
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
