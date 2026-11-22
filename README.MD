@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-### 📨 Socials:
-![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)(https://linkedin.com/in/majosh7/)
-![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=)
+### 📨 Socials: 
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://linkedin.com/in/majosh7/)
+[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=)]
 
 
 ## 💻 Tech Stack:
