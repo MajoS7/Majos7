@@ -2,8 +2,6 @@
 <h3 align="center">Semi-Senior Full Stack Developer | Frontend Specialist (Angular & React) from Colombia 🇨🇴</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=majos7&label=Profile%20views&color=0e75b6&style=flat" alt="majos7" /> </p>
-
 - 💼 **5 years of experience** building scalable enterprise web applications (formerly at Heinsohn Business Technologies).
 - 🚀 **Open to work:** Looking for **100% remote** Full Stack or Frontend opportunities.
 - 🌱 Continuously exploring **Cloud architectures, Microservices, and AI-assisted development**.
